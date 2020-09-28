@@ -10,3 +10,4 @@ Lets say you entered shirts as query in above text page.
 
 # This app is live on Heroku
 [LiveAppLink](https://fkart-reviewscrapper.herokuapp.com/)
+Note, I have removed database part from the app which is deployed on Heroku. If you want you enable it and set uo your herou account to have access to MongodB. In absence of any database, the app directly queries the flipkart site and dislays the scraped reviews on the browser.
