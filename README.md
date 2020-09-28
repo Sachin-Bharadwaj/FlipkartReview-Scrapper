@@ -9,4 +9,4 @@ Lets say you entered shirts as query in above text page.
 ![Alt Text](https://github.com/Sachin-Bharadwaj/FlipkartReview-Scrapper/blob/master/output/SearchResults.png)
 
 # This app is live on Heroku
-![Alt Text](https://fkart-reviewscrapper.herokuapp.com/)
+![LiveAppLink](https://fkart-reviewscrapper.herokuapp.com/)
